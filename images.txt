@@ -2,6 +2,7 @@ elasticsearch:8.3.1
 nacos/nacos-server:latest
 kibana:8.3.1
 logstash:8.3.1
+filebea:8.3.1
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
