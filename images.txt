@@ -5,6 +5,7 @@ wurstmeister/kafka:2.12-2.5.0
 hlebalbau/kafka-manager:latest
 nacos/nacos-server:latest
 kibana:8.3.1
+kibana:7.6.1
 logstash:8.3.1
 elastic/filebeat:8.3.1
 mongo:6
